@@ -11,7 +11,7 @@ import { useToast } from '@/components/ui/use-toast';
 
 const Index = () => {
   const [typedText, setTypedText] = useState('');
-  const fullText = "Hello World! I'm a Pixel Developer";
+  const fullText = "Hello World! I'm a Miguel Developer";
   const [currentTextIndex, setCurrentTextIndex] = useState(0);
   const { toast } = useToast();
 

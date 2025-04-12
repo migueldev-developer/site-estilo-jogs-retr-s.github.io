@@ -24,7 +24,7 @@ const PixelHeader = () => {
       <div className="pixel-container flex justify-between items-center py-4">
         <div className="flex items-center space-x-2">
           <div className="w-4 h-4 bg-pixel-blue animate-pixel-pulse"></div>
-          <PixelText variant="subheading">DEV PORTFOLIO</PixelText>
+          <PixelText variant="subheading">MIGUEL PORTFOLIO</PixelText>
         </div>
         
         {/* Desktop Navigation */}

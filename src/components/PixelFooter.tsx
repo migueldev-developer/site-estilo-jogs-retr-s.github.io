@@ -11,7 +11,7 @@ const PixelFooter = () => {
           <div className="mb-4 md:mb-0">
             <div className="flex items-center justify-center md:justify-start space-x-2">
               <div className="w-3 h-3 bg-pixel-blue"></div>
-              <PixelText variant="subheading">DEV PORTFOLIO</PixelText>
+              <PixelText variant="subheading">MIGUEL PORTFOLIO</PixelText>
             </div>
           </div>
           
